@@ -2,6 +2,11 @@
 
 A simple plugin that disabled `/me` command from execution.
 
+## Features
+
+- Disable `/me` command from execution.
+- Kick players if they use `@` selectors excessively (to prevent Horion crasher).
+
 ## Usages
 
-Simply drop the `whl` file into plugins folder.
+Download the `whl` file from the release page and drop it into the `plugins` folder.
